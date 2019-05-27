@@ -7,4 +7,7 @@ class Coin:
         self.change = change
 
     def __str__(self):
-        return "Name: {}, Price: {}, Change: {} ".format(self.name, self.price, self.change)
+        whiteSpaceName = "              "   
+        whiteSpacePrice = "             "
+
+        return "Name:{}{}\nPrice:{}{} usd\n24 hour % change:  {} %\n\n".format(whiteSpaceName, self.name, whiteSpacePrice, self.price, self.change)
