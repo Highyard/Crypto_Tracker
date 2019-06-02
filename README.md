@@ -1,27 +1,19 @@
-************************
-# Python Project for Exam.
-************************
 
 ## Project Description:
 ---------------------
 
 This program allows you to follow the top 20 most trending/popular cryptocoins and see their market value, 
-as well as their daily procent market change. You can also search for coins and read their description, which allows you to get 
-a better understanding of each coin. The program includes an option that allows the user to bookmark coins, so it's possible to 
-see their favorite coins quickly and easily.  
+as well as their daily percent market change. You can also search for coins and read their description, allowing you to get 
+a better understanding of each coin. The program includes the option to "follow" coins, adding them to a personal list, making it easy to 
+see your favorite coins quickly and easily. 
 
-
-# Installation Guide
-----------------------
 
 ## To get the code up and run simply do these steps:
-  * Step 1. Download the code from github.
-  * Step 2. Open the project on your favorite IDE - I like VS Code and PyCharm
-  * Step 3. Open your terminal
-  * Step 4. Navigate to the correct folder
-  * Step 5. Write the following command: 'Python main.py' and press enter
-  * Step 6. Now follow the instructions in the terminal to navigate through the program.
+  * Step 1. Download Zip from github, and extract anywhere.
+  * Step 2. Open the project in your preferred IDE.
+  * Step 3. Navigate to root folder of project.
+  * Step 4. Run the following command to run program: 'python main.py'
+  * Step 5. You're done!
   
-That's all! Hope you enjoy!
 
-Josef Brøndum Schmidt
+Benjamin Østerø Højgaard
